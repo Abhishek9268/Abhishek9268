@@ -1,43 +1,106 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
+<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
 
-- 🔭 **I’m currently working on:** Full-stack web applications and UI/UX design projects.
-- 👯 **I’m looking to collaborate on:** Open-source projects and creative web development.
-- 🤝 **I’m looking for help with:** Mastering advanced backend architecture and database optimization.
-- 🌱 **I’m currently learning:** New frameworks and improving my problem-solving skills.
-- 💬 **Ask me about:** React, JavaScript, or building modern, responsive layouts.
-- ⚡ **Fun fact:** I believe a good cup of coffee (or tea!) makes any bug easier to fix.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Abhishek9268&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Abhishek9268&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with me:
+## 🚀 About Me
+
+- 🔭 Currently working on **Full Stack Web Applications**
+- 🌱 Learning **Advanced Backend Architecture & Database Optimization**
+- 👨‍💻 Passionate about building **modern, responsive, and user-friendly applications**
+- 🤝 Open to collaborating on **Open Source & Creative Projects**
+- 💬 Ask me about **React, JavaScript, Frontend Development, and UI/UX**
+- ⚡ Fun fact: *A good cup of coffee ☕ can fix almost any bug.*
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-chaurasia-27b7b2360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Chaurasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhishekchaurasia_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekchaurasia_18" height="30" width="40" /></a>
-<a href="mailto:Abhishekchaurasia5201@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/abhishek-chaurasia-27b7b2360/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+</a>
+
+<a href="https://www.instagram.com/abhishekchaurasia_18" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" />
+</a>
+
+<a href="mailto:Abhishekchaurasia5201@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+</a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack
 
-### 🛠 Languages & Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+### 🚀 Languages & Frameworks
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,python,django,fastapi,tailwind,mongodb,mysql,php,laravel" />
+</p>
 
----
+### ☁️ Cloud & Tools
 
-## 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek9268&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abhishek's GitHub stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek9268&theme=dark&hide_border=false" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9268&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,netlify,vercel,firebase" />
 </p>
 
 ---
+
+# 📌 Featured Projects
+
+### 🌐 AI Recipe Maker
+🔗 https://ai-recipe-maker08.netlify.app/
+
+> AI-powered recipe generator with clean UI and responsive design.
+
+### 💬 ChatterBox AI
+🔗 https://chatterrbox-ai.netlify.app/
+
+> Interactive AI chat application with modern frontend experience.
+
+### 📄 AI Resume Builder
+🔗 https://ai-resume-builder08.netlify.app/
+
+> Smart resume builder with customizable templates and export features.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhishek9268&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9268&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9268&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek9268&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek9268&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
 </p>
