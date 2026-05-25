@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Abhishek9268&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Abhishek9268&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -76,28 +70,40 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9268&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9268&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abhishek9268&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9268&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek9268&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Abhishek9268&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek9268&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Abhishek9268&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
 
 ## ✨ Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> > “Build. Learn. Improve. Repeat.”
 
 ---
 
